@@ -1,0 +1,1152 @@
+{
+  "foodTips": [
+    {
+      "disease": "Anemia",
+      "eat": [
+        {
+          "name": "Citrus fruit",
+          "imageUrl": "https://banner2.kisspng.com/20180719/axo/kisspng-citrus-sinensis-sweet-lemon-orange-fruit-food-laranja-5b51075bbc4773.1254890215320369557712.jpg"
+        },
+        {
+          "name": "Beans",
+          "imageUrl": "https://images.media-allrecipes.com/userphotos/960x960/4578474.jpg"
+        },
+        {
+          "name": "Lamb",
+          "imageUrl": "https://recipeblog.io/fruits/stories/4988/9988.jpg?5af294e39338c"
+        },
+        {
+          "name": "Nuts",
+          "imageUrl": "https://www.organicfacts.net/wp-content/uploads/nuts.jpg"
+        },
+        {
+          "name": "Canned food",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmh_NLA8jxjcuqr4aIQJgoSfCcTa_Ne-wZ2o5i1v9As0bQ36ea"
+        },
+        {
+          "name": "Red meat",
+          "imageUrl": "https://runningmagazine.ca/wp-content/uploads/2014/02/139736560.jpg"
+        },
+        {
+          "name": "Sunflower seed",
+          "imageUrl": "https://spng.pngfly.com/20180427/loq/kisspng-sunflower-seed-common-sunflower-eating-food-5ae306dd65e1e8.0858819915248278694173.jpg"
+        },
+        {
+          "name": "Peas",
+          "imageUrl": "https://steelehousekitchen.com/wp-content/uploads/2010/08/IMG_1708.jpg"
+        },
+        {
+          "name": "Liver",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0609/3677/products/raw.lamb_.liver_3ca2ce0e-a581-4e2c-aaa9-33723ad014b0_large.jpeg?v=1407880510"
+        },
+        {
+          "name": "Cashews",
+          "imageUrl": "https://www.myrainbowpantry.com/wp-content/uploads/2017/01/Cashew-Nuts-Roast-Salted.jpg"
+        },
+        {
+          "name": "Yogurt",
+          "imageUrl": "http://pluspng.com/img-png/yogurt-hd-png-sut-yo-urt-ayran-500.png"
+        },
+        {
+          "name": "Pumpkin seeds",
+          "imageUrl": "https://www.kitchenkneads.com/wp-content/uploads/2015/05/Pumpkin-Seeds-Raw-1000x1000.png"
+        },
+        {
+          "name": "Sea food",
+          "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/06/92/24/ac/pencar-seafood-grill.jpg"
+        },
+        {
+          "name": "Broccoli",
+          "imageUrl": "https://thumbnail.imgbin.com/4/16/12/imgbin-broccoli-cauliflower-vegetable-broccoli-TEeQf1yuqrbA9A1nTqE9kHgRt_t.jpg"
+        },
+        {
+          "name": "Spinach",
+          "imageUrl": "https://thumbnail.imgbin.com/1/14/16/imgbin-spinach-komatsuna-food-vegetable-collard-greens-vegetable-4APxLRFstymjy0AUPtnbwFKr3_t.jpg"
+        }
+      ],
+      "avoid": [
+        {
+          "name": "Brown rice",
+          "imageUrl": "https://thumbnail.imgbin.com/24/5/7/imgbin-brown-rice-whole-grain-cereal-white-rice-rice-brown-rice-illustration-PHqdE2pGyYuJuhxJhpZWqNDTp_t.jpg"
+        },
+        {
+          "name": "Grapes",
+          "imageUrl": "https://img.etimg.com/thumb/height-480,width-640,msid-68194821,imgsize-89908/gettyimages-937415814.jpg"
+        },
+        {
+          "name": "Corn",
+          "imageUrl": "https://img.pngio.com/food-and-beverage-of-sweet-waxy-maize-food-clipart-waxy-corn-fruit-corn-corn-png-260_260.png"
+        },
+        {
+          "name": "Whole grain",
+          "imageUrl": "https://b.kisscc0.com/20180727/qve/kisscc0-atta-flour-roti-whole-wheat-flour-wheat-5b5aef031fc112.8282516815326860831301.jpg"
+        },
+        {
+          "name": "Coffee",
+          "imageUrl": "https://banner2.kisspng.com/20171217/8aa/cup-coffee-png-5a37379a797281.1466299915135681544975.jpg"
+        },
+        {
+          "name": "Tea and coffee",
+          "imageUrl": "https://pngimage.net/wp-content/uploads/2018/06/tea-coffee-png-5.png"
+        },
+        {
+          "name": "Cereal",
+          "imageUrl": "https://banner2.kisspng.com/20180418/yue/kisspng-corn-flakes-frosted-flakes-breakfast-cereal-frosti-corn-flakes-5ad7c6755a6d05.2621574215240904853704."
+        }
+      ]
+    },
+    {
+      "disease": "Asthma",
+      "eat": [
+        {
+          "name": "Carrot",
+          "imageUrl": "https://banner2.kisspng.com/20180403/oyq/kisspng-carrot-juice-carrot-juice-vegetable-auglis-carrots-5ac40a4f12dbf8.5877983815227971350773.jpg"
+        },
+        {
+          "name": "Pumpkin seeds",
+          "imageUrl": "https://www.kitchenkneads.com/wp-content/uploads/2015/05/Pumpkin-Seeds-Raw-1000x1000.png"
+        },
+        {
+          "name": "Broccoli",
+          "imageUrl": "https://thumbnail.imgbin.com/4/16/12/imgbin-broccoli-cauliflower-vegetable-broccoli-TEeQf1yuqrbA9A1nTqE9kHgRt_t.jpg"
+        },
+        {
+          "name": "Spinach",
+          "imageUrl": "https://thumbnail.imgbin.com/1/14/16/imgbin-spinach-komatsuna-food-vegetable-collard-greens-vegetable-4APxLRFstymjy0AUPtnbwFKr3_t.jpg"
+        },
+        {
+          "name": "Sweet potato",
+          "imageUrl": "https://d2lhw32459hxui.cloudfront.net/files/uploads/drupal/uploads/2012/10/nksweetpotato.jpg"
+        },
+        {
+          "name": "Banana",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXyxXwQJUIxNxOIa8OOB8LFB7d60ZgrTEPOTIdrRUFzjRVOwE7"
+        },
+        {
+          "name": "Avocado",
+          "imageUrl": "https://banner2.kisspng.com/20180328/cqq/kisspng-fruit-vegetable-apple-eating-avocado-5abb7be4969365.2220108415222363886168.jpg"
+        },
+        {
+          "name": "Apple",
+          "imageUrl": "https://png.pngtree.com/png-clipart/20190115/ourmid/pngtree-red-apple-apple-red-apple-hand-drawn-apple-png-image_369295.jpg"
+        }
+      ],
+      "avoid": [
+        {
+          "name": "Cabbage",
+          "imageUrl": "https://toppng.com/public/uploads/preview/cabbage-11528333419zqt18200qr.png"
+        },
+        {
+          "name": "Dairy product",
+          "imageUrl": "https://pngimage.net/wp-content/uploads/2018/05/dairy-products-png-5.png"
+        },
+        {
+          "name": "Chicken soup",
+          "imageUrl": "https://spng.pngfly.com/20180525/pbb/kisspng-cock-a-leekie-soup-leek-soup-chicken-soup-egg-drop-5b088ce1d1fdc4.4071312015272870098601.jpg"
+        },
+        {
+          "name": "Peanuts",
+          "imageUrl": "https://nuts.com/images/auto/801x534/assets/dd79402e574cd109.jpg"
+        },
+        {
+          "name": "Fried Food",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYGkiYiVm2xeZDF6WsAbKJYw8xh-NfbTFbN6tIEIgvK0M_BFnu"
+        },
+        {
+          "name": "Carbonated drinks",
+          "imageUrl": "https://banner2.kisspng.com/20180607/wae/kisspng-coca-cola-fizzy-drinks-pepsi-diet-coke-splash-soda-5b19e394f279e1.9718031315284233169932.jpg"
+        },
+        {
+          "name": "Mushroom",
+          "imageUrl": "https://4.imimg.com/data4/HF/YC/IMOB-25230115/mushroom_625x350_81462256291-500x500.jpg"
+        },
+        {
+          "name": "Wheat",
+          "imageUrl": "https://img1.exportersindia.com/product_images/bc-full/2018/7/5736071/wheat-flour-1530438649-4044087.jpeg"
+        },
+        {
+          "name": "Beans",
+          "imageUrl": "https://images.media-allrecipes.com/userphotos/960x960/4578474.jpg"
+        },
+        {
+          "name": "Dried fruits",
+          "imageUrl": "https://www.pngfind.com/pngs/m/29-291823_dry-fruits-chocolate-hd-png-download.png"
+        }
+      ]
+    },
+    {
+      "disease": "Conjunctivitis",
+      "avoid": [
+        {
+          "name": "Meat",
+          "imageUrl": "https://ichef.bbci.co.uk/images/ic/640x360/p0285y3n.jpg"
+        },
+        {
+          "name": "Fatty food",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJXOmZLq5B6yAtuew1YwX7w95HzqZD9BgNp2-mrwkf_JO-ryIX"
+        },
+        {
+          "name": "Excessive sugar",
+          "imageUrl": "https://b.kisscc0.com/20180717/aaw/kisscc0-sugar-cubes-food-sucrose-brown-sugar-sugar-cube-5b4e9b38e16dd5.0467087815318782009234.jpg"
+        },
+        {
+          "name": "Banana",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXyxXwQJUIxNxOIa8OOB8LFB7d60ZgrTEPOTIdrRUFzjRVOwE7"
+        },
+        {
+          "name": "Tea and coffee",
+          "imageUrl": "https://pngimage.net/wp-content/uploads/2018/06/tea-coffee-png-5.png"
+        },
+        {
+          "name": "Cereal",
+          "imageUrl": "https://banner2.kisspng.com/20180418/yue/kisspng-corn-flakes-frosted-flakes-breakfast-cereal-frosti-corn-flakes-5ad7c6755a6d05.2621574215240904853704."
+        },
+        {
+          "name": "Potato",
+          "imageUrl": "https://5.imimg.com/data5/TB/IF/MY-41399105/potato-500x500.jpg"
+        },
+        {
+          "name": "Excessive salt",
+          "imageUrl": "http://pngimg.com/uploads/salt/salt_PNG11.png"
+        },
+        {
+          "name": "Puddings",
+          "imageUrl": "https://img.delicious.com.au/yNd4uWCm/w759-h506-cfill/del/2015/10/queen-of-puddings-10658-1.jpg"
+        },
+        {
+          "name": "White bread",
+          "imageUrl": "https://library.kissclipart.com/20180829/qzw/kissclipart-bread-png-clipart-white-bread-toast-220f1fe676204675.png"
+        }
+      ],
+      "eat": [
+        {
+          "name": "Turnips",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRugGvsUMQBl9sxx8Nwr_5xBopqkILDAz4kfBBcqdZaC0yOaJZC"
+        },
+        {
+          "name": "Garlic",
+          "imageUrl": "https://img.pngio.com/garlic-garlic-png-garlic-hd-png-garlic-png-1517_1318.jpg"
+        },
+        {
+          "name": "Radish",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0011/2341/8172/products/RD694_Miyashige-White-Neck-Daikon-Radish-Seeds_480x480.jpg?v=1523418885"
+        },
+        {
+          "name": "Chilly",
+          "imageUrl": "https://i.dlpng.com/static/png/1496848_thumb.png"
+        },
+        {
+          "name": "Fruit juice",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLU2PiD8V8IfVr4zptB27hPs9qafluKr7Gvusz2KkLp-5Xpf2Q"
+        },
+        {
+          "name": "Pumpkin",
+          "imageUrl": "https://assets.parents.com/s3fs-public/styles/nfp_1080_portrait/public/images/p_101709067.jpg?QsEpAI1taLWF63STbSCdUh6TotzIVL9h"
+        },
+        {
+          "name": "Dark berries",
+          "imageUrl": "https://icon2.kisspng.com/20180202/ayw/kisspng-frutti-di-bosco-juice-cream-fruit-berries-png-pic-5a748b8a38e2b9.214405701517587338233.jpg"
+        },
+        {
+          "name": "Herbal tea",
+          "imageUrl": "https://img.pngio.com/-tea-cup-png-herbal-tea-png-1522_1072.png"
+        },
+        {
+          "name": "Dairy product",
+          "imageUrl": "https://pngimage.net/wp-content/uploads/2018/05/dairy-products-png-5.png"
+        },
+        {
+          "name": "Onion",
+          "imageUrl": "https://ripeme.com/wp-content/uploads/RV-10050-RIPE-ORGANIC-ORGANIC-ONION-RED.jpg"
+        },
+        {
+          "name": "Egg yolks",
+          "imageUrl": "https://banner2.kisspng.com/20180213/gfq/kisspng-breakfast-chicken-yolk-nutrition-egg-egg-yolk-5a834cfa8f3358.9350676215185543625866.jpg"
+        },
+        {
+          "name": "Strawberry",
+          "imageUrl": "https://thumbnail.imgbin.com/0/24/20/imgbin-frozen-yogurt-strawberry-juice-marmalade-shortcake-strawberry-V9gmcM7VQzvXaUEFFpAWdXnc4_t.jpg"
+        },
+        {
+          "name": "Fish",
+          "imageUrl": "https://banner2.kisspng.com/20180413/uww/kisspng-fish-fry-seafood-meat-seafood-5ad0915237e8d4.260411781523618130229.jpg"
+        }
+      ]
+    },
+    {
+      "disease": "Diabetes Mellitus",
+      "avoid": [
+        {
+          "name": "Sugar white bread",
+          "imageUrl": "https://thenypost.files.wordpress.com/2014/05/whitebread.jpg?quality=90&strip=all&w=618&h=410&crop=1"
+        },
+        {
+          "name": "Dried fruits",
+          "imageUrl": "https://www.pngfind.com/pngs/m/29-291823_dry-fruits-chocolate-hd-png-download.png"
+        },
+        {
+          "name": "White rice",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYRXaNzvWG7SU3QcrVHUdREYVGgAyi3XzMNuiORX3uWyrEP6v8"
+        },
+        {
+          "name": "Coffee",
+          "imageUrl": "https://banner2.kisspng.com/20171217/8aa/cup-coffee-png-5a37379a797281.1466299915135681544975.jpg"
+        },
+        {
+          "name": "Red meat",
+          "imageUrl": "https://runningmagazine.ca/wp-content/uploads/2014/02/139736560.jpg"
+        },
+        {
+          "name": "Trans fat",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCZrTRINc3LoWluQqFJc5YGBPNTECGekwtiWDvvmAH9jg3aq1L"
+        },
+        {
+          "name": "Fruit juice",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLU2PiD8V8IfVr4zptB27hPs9qafluKr7Gvusz2KkLp-5Xpf2Q"
+        },
+        {
+          "name": "Fried meats",
+          "imageUrl": "https://toppng.com/public/uploads/preview/chicken-leg-png-11552946621gglavxqaix.png"
+        },
+        {
+          "name": "Soda",
+          "imageUrl": "https://www.fodors.com/wp-content/uploads/2019/03/HERO_Worlds_Best_Soda_Bundaberg_shutterstock_679079920.jpg"
+        },
+        {
+          "name": "French fries",
+          "imageUrl": "https://banner2.kisspng.com/20180130/udw/kisspng-hamburger-french-fries-fast-food-onion-ring-fried-hd-fries-5a71244159a512.0405123715173642893672.jpg"
+        },
+        {
+          "name": "Cereal",
+          "imageUrl": "https://banner2.kisspng.com/20180418/yue/kisspng-corn-flakes-frosted-flakes-breakfast-cereal-frosti-corn-flakes-5ad7c6755a6d05.2621574215240904853704."
+        },
+        {
+          "name": "Sweetened tea",
+          "imageUrl": "https://c7.uihere.com/files/430/678/397/java-coffee-tea-cafe-coffee-cup-coffe-cup-thumb.jpg"
+        }
+      ],
+      "eat": [
+        {
+          "name": "Onion",
+          "imageUrl": "https://ripeme.com/wp-content/uploads/RV-10050-RIPE-ORGANIC-ORGANIC-ONION-RED.jpg"
+        },
+        {
+          "name": "Beans",
+          "imageUrl": "https://images.media-allrecipes.com/userphotos/960x960/4578474.jpg"
+        },
+        {
+          "name": "Turmeric",
+          "imageUrl": "https://spng.pngfly.com/20180427/vow/kisspng-turmeric-food-health-cyclodextrin-disease-5ae2abd465e318.4472131415248045644173.jpg"
+        },
+        {
+          "name": "Egg",
+          "imageUrl": "https://img.pngio.com/fresh-eggs-and-broken-egg-vector-food-ingredients-egg-png-and-vector-free-egg-png-260_260.png"
+        },
+        {
+          "name": "Broccoli",
+          "imageUrl": "https://thumbnail.imgbin.com/4/16/12/imgbin-broccoli-cauliflower-vegetable-broccoli-TEeQf1yuqrbA9A1nTqE9kHgRt_t.jpg"
+        },
+        {
+          "name": "Ghee",
+          "imageUrl": "https://sunshinemarket.co.th/wp/wp-content/uploads/2018/04/ghee.jpg"
+        },
+        {
+          "name": "Garlic",
+          "imageUrl": "https://img.pngio.com/garlic-garlic-png-garlic-hd-png-garlic-png-1517_1318.jpg"
+        },
+        {
+          "name": "Cinnamon",
+          "imageUrl": "https://c7.uihere.com/files/815/655/626/cinnamon-roll-cinnamomum-verum-indian-cuisine-horchata-saigon-cinnamon-others-thumb.jpg"
+        },
+        {
+          "name": "Low fat yogurt",
+          "imageUrl": "https://www.sunshineonline.com.my/img/products/5858f7009c599.jpg"
+        },
+        {
+          "name": "Nuts",
+          "imageUrl": "https://www.organicfacts.net/wp-content/uploads/nuts.jpg"
+        },
+        {
+          "name": "Spinach",
+          "imageUrl": "https://thumbnail.imgbin.com/1/14/16/imgbin-spinach-komatsuna-food-vegetable-collard-greens-vegetable-4APxLRFstymjy0AUPtnbwFKr3_t.jpg"
+        }
+      ]
+    },
+    {
+      "disease": "Diarrhea",
+      "avoid": [
+        {
+          "name": "Raw vegetables",
+          "imageUrl": "https://foodrevolution.org/wp-content/uploads/2018/09/blog-featured-rawvscooked3-20180905.jpg"
+        },
+        {
+          "name": "Soda",
+          "imageUrl": "https://www.fodors.com/wp-content/uploads/2019/03/HERO_Worlds_Best_Soda_Bundaberg_shutterstock_679079920.jpg"
+        },
+        {
+          "name": "Spicy food",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqUgVDNUkw18QYggwgoAzdlQN7bbIoG26Ex4-lCKMNTB8Lxgb_"
+        },
+        {
+          "name": "Onion",
+          "imageUrl": "https://ripeme.com/wp-content/uploads/RV-10050-RIPE-ORGANIC-ORGANIC-ONION-RED.jpg"
+        },
+        {
+          "name": "Grapes",
+          "imageUrl": "https://img.etimg.com/thumb/height-480,width-640,msid-68194821,imgsize-89908/gettyimages-937415814.jpg"
+        },
+        {
+          "name": "Alcohol",
+          "imageUrl": "https://banner2.kisspng.com/20180607/qxg/kisspng-american-whiskey-scotch-whisky-distilled-beverage-red-label-5b18af883250b9.9287534715283444562061.jpg"
+        },
+        {
+          "name": "Corn",
+          "imageUrl": "https://img.pngio.com/food-and-beverage-of-sweet-waxy-maize-food-clipart-waxy-corn-fruit-corn-corn-png-260_260.png"
+        },
+        {
+          "name": "Cherries",
+          "imageUrl": "https://www.pinclipart.com/picdir/middle/4-47481_cherry-png-clip-art-transparent-png.png"
+        },
+        {
+          "name": "Fried Food",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYGkiYiVm2xeZDF6WsAbKJYw8xh-NfbTFbN6tIEIgvK0M_BFnu"
+        },
+        {
+          "name": "Coffee",
+          "imageUrl": "https://banner2.kisspng.com/20171217/8aa/cup-coffee-png-5a37379a797281.1466299915135681544975.jpg"
+        },
+        {
+          "name": "Dairy product",
+          "imageUrl": "https://pngimage.net/wp-content/uploads/2018/05/dairy-products-png-5.png"
+        },
+        {
+          "name": "Milk",
+          "imageUrl": "https://dairyfarmersofcanada.ca/sites/default/files/styles/full_width_large/public/getty-854296650.jpg?itok=oVdN6l2l"
+        },
+        {
+          "name": "Pork",
+          "imageUrl": "https://www.farmison.com/thumbs/14-days-dry-aged-yorkshire-pig-pork-chop.87ed2783-f0a9-4512-a60e-23b6b04f3a3a.square.900x900.jpg"
+        }
+      ],
+      "eat": [
+        {
+          "name": "Carrot",
+          "imageUrl": "https://banner2.kisspng.com/20180403/oyq/kisspng-carrot-juice-carrot-juice-vegetable-auglis-carrots-5ac40a4f12dbf8.5877983815227971350773.jpg"
+        },
+        {
+          "name": "Yogurt",
+          "imageUrl": "http://pluspng.com/img-png/yogurt-hd-png-sut-yo-urt-ayran-500.png"
+        },
+        {
+          "name": "Cereal",
+          "imageUrl": "https://banner2.kisspng.com/20180418/yue/kisspng-corn-flakes-frosted-flakes-breakfast-cereal-frosti-corn-flakes-5ad7c6755a6d05.2621574215240904853704."
+        },
+        {
+          "name": "Beetroot",
+          "imageUrl": "https://banner2.kisspng.com/20180323/voq/kisspng-mangelwurzel-chard-sugar-beet-beetroot-vegetable-beet-5ab4fd5d7fe290.0099441015218107815238.jpg"
+        },
+        {
+          "name": "White bread",
+          "imageUrl": "https://library.kissclipart.com/20180829/qzw/kissclipart-bread-png-clipart-white-bread-toast-220f1fe676204675.png"
+        },
+        {
+          "name": "Soup",
+          "imageUrl": "https://www.inspiredtaste.net/wp-content/uploads/2018/10/Homemade-Vegetable-Soup-Recipe-2-1200.jpg"
+        },
+        {
+          "name": "Banana",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXyxXwQJUIxNxOIa8OOB8LFB7d60ZgrTEPOTIdrRUFzjRVOwE7"
+        },
+        {
+          "name": "White rice",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYRXaNzvWG7SU3QcrVHUdREYVGgAyi3XzMNuiORX3uWyrEP6v8"
+        },
+        {
+          "name": "Boiled potatoes",
+          "imageUrl": "https://library.kissclipart.com/20180827/wgq/kissclipart-potatoes-png-clipart-baked-potato-cc1d5ad19cddafab.png"
+        }
+      ]
+    },
+    {
+      "disease": "Gasteroesophageal Reflux Disease",
+      "avoid": [
+        {
+          "name": "Alcohol",
+          "imageUrl": "https://banner2.kisspng.com/20180607/qxg/kisspng-american-whiskey-scotch-whisky-distilled-beverage-red-label-5b18af883250b9.9287534715283444562061.jpg"
+        },
+        {
+          "name": "Corn",
+          "imageUrl": "https://img.pngio.com/food-and-beverage-of-sweet-waxy-maize-food-clipart-waxy-corn-fruit-corn-corn-png-260_260.png"
+        },
+        {
+          "name": "Carbonated drinks",
+          "imageUrl": "https://banner2.kisspng.com/20180607/wae/kisspng-coca-cola-fizzy-drinks-pepsi-diet-coke-splash-soda-5b19e394f279e1.9718031315284233169932.jpg"
+        },
+        {
+          "name": "Coffee",
+          "imageUrl": "https://banner2.kisspng.com/20171217/8aa/cup-coffee-png-5a37379a797281.1466299915135681544975.jpg"
+        },
+        {
+          "name": "Dairy product",
+          "imageUrl": "https://pngimage.net/wp-content/uploads/2018/05/dairy-products-png-5.png"
+        },
+        {
+          "name": "Fatty food",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJXOmZLq5B6yAtuew1YwX7w95HzqZD9BgNp2-mrwkf_JO-ryIX"
+        },
+        {
+          "name": "Soda",
+          "imageUrl": "https://www.fodors.com/wp-content/uploads/2019/03/HERO_Worlds_Best_Soda_Bundaberg_shutterstock_679079920.jpg"
+        },
+        {
+          "name": "Grains",
+          "imageUrl": "https://www.canadianprotein.com/lifestyle/wp-content/uploads/2017/04/7-of-the-healthiest-grains-you-could-ever-wish-for.jpg"
+        },
+        {
+          "name": "Potato",
+          "imageUrl": "https://5.imimg.com/data5/TB/IF/MY-41399105/potato-500x500.jpg"
+        },
+        {
+          "name": "Spicy food",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqUgVDNUkw18QYggwgoAzdlQN7bbIoG26Ex4-lCKMNTB8Lxgb_"
+        }
+      ],
+      "eat": [
+        {
+          "name": "Garlic",
+          "imageUrl": "https://img.pngio.com/garlic-garlic-png-garlic-hd-png-garlic-png-1517_1318.jpg"
+        },
+        {
+          "name": "Cranberry juice",
+          "imageUrl": "https://banner2.kisspng.com/20180410/oyq/kisspng-cranberry-juice-drink-ocean-spray-cranberries-5acc58e793a774.7192803915233415436048.jpg"
+        },
+        {
+          "name": "Fish",
+          "imageUrl": "https://banner2.kisspng.com/20180413/uww/kisspng-fish-fry-seafood-meat-seafood-5ad0915237e8d4.260411781523618130229.jpg"
+        },
+        {
+          "name": "Apple",
+          "imageUrl": "https://png.pngtree.com/png-clipart/20190115/ourmid/pngtree-red-apple-apple-red-apple-hand-drawn-apple-png-image_369295.jpg"
+        },
+        {
+          "name": "Beans",
+          "imageUrl": "https://images.media-allrecipes.com/userphotos/960x960/4578474.jpg"
+        },
+        {
+          "name": "Turmeric",
+          "imageUrl": "https://spng.pngfly.com/20180427/vow/kisspng-turmeric-food-health-cyclodextrin-disease-5ae2abd465e318.4472131415248045644173.jpg"
+        },
+        {
+          "name": "Pineapple",
+          "imageUrl": "https://www.planetorganic.com/images/products/large/1874.jpg"
+        },
+        {
+          "name": "Carrot",
+          "imageUrl": "https://banner2.kisspng.com/20180403/oyq/kisspng-carrot-juice-carrot-juice-vegetable-auglis-carrots-5ac40a4f12dbf8.5877983815227971350773.jpg"
+        },
+        {
+          "name": "Green tea",
+          "imageUrl": "https://www.organicfacts.net/wp-content/uploads/greentea-2.jpg"
+        },
+        {
+          "name": "Yogurt",
+          "imageUrl": "http://pluspng.com/img-png/yogurt-hd-png-sut-yo-urt-ayran-500.png"
+        },
+        {
+          "name": "Oat",
+          "imageUrl": "https://images-prod.healthline.com/hlcmsresource/images/AN_images/AN491-Oats-732x549-thumb.jpg"
+        },
+        {
+          "name": "Broccoli",
+          "imageUrl": "https://thumbnail.imgbin.com/4/16/12/imgbin-broccoli-cauliflower-vegetable-broccoli-TEeQf1yuqrbA9A1nTqE9kHgRt_t.jpg"
+        },
+        {
+          "name": "Ginger",
+          "imageUrl": "https://www.planetorganic.com/images/products/large/10081.jpg"
+        }
+      ]
+    },
+    {
+      "disease": "Gum Disease",
+      "avoid": [
+        {
+          "name": "Sausage",
+          "imageUrl": "https://hoffsqualitymeats.com/wp-content/uploads/2018/08/MildItalianSausage.jpg"
+        },
+        {
+          "name": "Sweets",
+          "imageUrl": "https://i.ndtvimg.com/i/2016-10/diwali-sweets_620x350_71477722448.jpg"
+        },
+        {
+          "name": "Potato chips",
+          "imageUrl": "https://5.imimg.com/data5/VP/XO/MY-22457386/potato-chips-500x500.jpg"
+        },
+        {
+          "name": "Bread",
+          "imageUrl": "https://cdn.imgbin.com/21/20/17/imgbin-white-bread-whole-grain-flour-whole-wheat-bread-toast-bread-1gHQ3WxRsVWPiyMCB4Hc7EvST.jpg"
+        },
+        {
+          "name": "Cake",
+          "imageUrl": "https://cdn.imgbin.com/20/17/1/imgbin-red-ribbon-black-forest-gateau-birthday-cake-makati-wedding-cake-wedding-cake-tXyjvyVY3zSPdzSJAaA3HVi8p.jpg"
+        },
+        {
+          "name": "Alcohol",
+          "imageUrl": "https://banner2.kisspng.com/20180607/qxg/kisspng-american-whiskey-scotch-whisky-distilled-beverage-red-label-5b18af883250b9.9287534715283444562061.jpg"
+        },
+        {
+          "name": "Carbonated drinks",
+          "imageUrl": "https://banner2.kisspng.com/20180607/wae/kisspng-coca-cola-fizzy-drinks-pepsi-diet-coke-splash-soda-5b19e394f279e1.9718031315284233169932.jpg"
+        },
+        {
+          "name": "Dried fruits",
+          "imageUrl": "https://www.pngfind.com/pngs/m/29-291823_dry-fruits-chocolate-hd-png-download.png"
+        },
+        {
+          "name": "Coffee",
+          "imageUrl": "https://banner2.kisspng.com/20171217/8aa/cup-coffee-png-5a37379a797281.1466299915135681544975.jpg"
+        },
+        {
+          "name": "Ice cream",
+          "imageUrl": "https://pluspng.com/img-png/ice-cream-png-ice-cream-png-transparent-image-1574.png"
+        },
+        {
+          "name": "Candies",
+          "imageUrl": "https://banner2.kisspng.com/20180215/oae/kisspng-lollipop-candy-png-lollipop-vector-material-5a8655f634d761.3546864415187532702165.jpg"
+        }
+      ],
+      "eat": [
+        {
+          "name": "Carrot",
+          "imageUrl": "https://banner2.kisspng.com/20180403/oyq/kisspng-carrot-juice-carrot-juice-vegetable-auglis-carrots-5ac40a4f12dbf8.5877983815227971350773.jpg"
+        },
+        {
+          "name": "Green tea",
+          "imageUrl": "https://www.organicfacts.net/wp-content/uploads/greentea-2.jpg"
+        },
+        {
+          "name": "Butter",
+          "imageUrl": "https://banner2.kisspng.com/20180216/coe/kisspng-butter-milk-toast-spread-food-yellow-butter-image-5a86f7328ff079.5237935115187945465896.jpg"
+        },
+        {
+          "name": "Yogurt",
+          "imageUrl": "http://pluspng.com/img-png/yogurt-hd-png-sut-yo-urt-ayran-500.png"
+        },
+        {
+          "name": "Liver",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0609/3677/products/raw.lamb_.liver_3ca2ce0e-a581-4e2c-aaa9-33723ad014b0_large.jpeg?v=1407880510"
+        },
+        {
+          "name": "Pears",
+          "imageUrl": "https://cdn1.medicalnewstoday.com/content/images/hero/285/285430/285430_1100.jpg"
+        },
+        {
+          "name": "Nuts",
+          "imageUrl": "https://www.organicfacts.net/wp-content/uploads/nuts.jpg"
+        },
+        {
+          "name": "Ginger",
+          "imageUrl": "https://www.planetorganic.com/images/products/large/10081.jpg"
+        },
+        {
+          "name": "Orange",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Orange-Fruit-Pieces.jpg"
+        },
+        {
+          "name": "Red wine",
+          "imageUrl": "https://253qv1sx4ey389p9wtpp9sj0-wpengine.netdna-ssl.com/wp-content/uploads/2015/10/GettyImages-615737086_HERO-700x461.jpg"
+        },
+        {
+          "name": "Milk",
+          "imageUrl": "https://dairyfarmersofcanada.ca/sites/default/files/styles/full_width_large/public/getty-854296650.jpg?itok=oVdN6l2l"
+        },
+        {
+          "name": "Garlic",
+          "imageUrl": "https://img.pngio.com/garlic-garlic-png-garlic-hd-png-garlic-png-1517_1318.jpg"
+        },
+        {
+          "name": "Cheese",
+          "imageUrl": "https://banner2.kisspng.com/20180224/ste/kisspng-cheese-food-download-clip-art-delicious-cheese-triangle-5a9106576995b9.1085462915194537834325.jpg"
+        },
+        {
+          "name": "Sauce",
+          "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/71U9VA0JDjL._SL1500_.jpg"
+        },
+        {
+          "name": "Apple",
+          "imageUrl": "https://png.pngtree.com/png-clipart/20190115/ourmid/pngtree-red-apple-apple-red-apple-hand-drawn-apple-png-image_369295.jpg"
+        },
+        {
+          "name": "Onion",
+          "imageUrl": "https://ripeme.com/wp-content/uploads/RV-10050-RIPE-ORGANIC-ORGANIC-ONION-RED.jpg"
+        }
+      ]
+    },
+    {
+      "disease": "Hypertension",
+      "avoid": [
+        {
+          "name": "Alcohol",
+          "imageUrl": "https://banner2.kisspng.com/20180607/qxg/kisspng-american-whiskey-scotch-whisky-distilled-beverage-red-label-5b18af883250b9.9287534715283444562061.jpg"
+        },
+        {
+          "name": "Pickles",
+          "imageUrl": "https://www.cjnews.com/wp-content/uploads/2016/04/e698e9c7-cd44-4dce-87b2-056ff2a4dca6.jpg"
+        },
+        {
+          "name": "Sea food",
+          "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/06/92/24/ac/pencar-seafood-grill.jpg"
+        },
+        {
+          "name": "Cheese",
+          "imageUrl": "https://banner2.kisspng.com/20180224/ste/kisspng-cheese-food-download-clip-art-delicious-cheese-triangle-5a9106576995b9.1085462915194537834325.jpg"
+        },
+        {
+          "name": "Salt processed meat",
+          "imageUrl": "https://runningmagazine.ca/wp-content/uploads/2014/02/139736560.jpg"
+        },
+        {
+          "name": "Butter",
+          "imageUrl": "https://banner2.kisspng.com/20180216/coe/kisspng-butter-milk-toast-spread-food-yellow-butter-image-5a86f7328ff079.5237935115187945465896.jpg"
+        },
+        {
+          "name": "Soft drinks",
+          "imageUrl": "https://www.fodors.com/wp-content/uploads/2019/03/HERO_Worlds_Best_Soda_Bundaberg_shutterstock_679079920.jpg"
+        },
+        {
+          "name": "Sugary drinks",
+          "imageUrl": "https://www.fodors.com/wp-content/uploads/2019/03/HERO_Worlds_Best_Soda_Bundaberg_shutterstock_679079920.jpg"
+        },
+        {
+          "name": "Tea and coffee",
+          "imageUrl": "https://pngimage.net/wp-content/uploads/2018/06/tea-coffee-png-5.png"
+        },
+        {
+          "name": "Canned food",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmh_NLA8jxjcuqr4aIQJgoSfCcTa_Ne-wZ2o5i1v9As0bQ36ea"
+        }
+      ],
+      "eat": [
+        {
+          "name": "Sunflower seed",
+          "imageUrl": "https://spng.pngfly.com/20180427/loq/kisspng-sunflower-seed-common-sunflower-eating-food-5ae306dd65e1e8.0858819915248278694173.jpg"
+        },
+        {
+          "name": "Olive oil",
+          "imageUrl": "https://www.westendmagazine.com/wp-content/uploads/2014/10/olive-oil-store.jpg"
+        },
+        {
+          "name": "Oat",
+          "imageUrl": "https://images-prod.healthline.com/hlcmsresource/images/AN_images/AN491-Oats-732x549-thumb.jpg"
+        },
+        {
+          "name": "Banana",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXyxXwQJUIxNxOIa8OOB8LFB7d60ZgrTEPOTIdrRUFzjRVOwE7"
+        },
+        {
+          "name": "Spinach",
+          "imageUrl": "https://thumbnail.imgbin.com/1/14/16/imgbin-spinach-komatsuna-food-vegetable-collard-greens-vegetable-4APxLRFstymjy0AUPtnbwFKr3_t.jpg"
+        },
+        {
+          "name": "Berries",
+          "imageUrl": "https://toppng.com/public/uploads/preview/berries-115260664423xylfemefj.png"
+        },
+        {
+          "name": "Pomegranates",
+          "imageUrl": "https://www.thespruceeats.com/thmb/t2r4JCvYRrnhJlQnOWQd3rWocMc=/450x0/filters:no_upscale():max_bytes(150000):strip_icc()/pomegranatesx-56a495353df78cf"
+        },
+        {
+          "name": "Pumpkin seeds",
+          "imageUrl": "https://www.kitchenkneads.com/wp-content/uploads/2015/05/Pumpkin-Seeds-Raw-1000x1000.png"
+        },
+        {
+          "name": "Nuts",
+          "imageUrl": "https://www.organicfacts.net/wp-content/uploads/nuts.jpg"
+        },
+        {
+          "name": "Legume",
+          "imageUrl": "https://www.healthline.com/hlcmsresource/images/AN_images/legumes-colors.jpg"
+        },
+        {
+          "name": "Beetroot",
+          "imageUrl": "https://banner2.kisspng.com/20180323/voq/kisspng-mangelwurzel-chard-sugar-beet-beetroot-vegetable-beet-5ab4fd5d7fe290.0099441015218107815238.jpg"
+        },
+        {
+          "name": "Fish",
+          "imageUrl": "https://banner2.kisspng.com/20180413/uww/kisspng-fish-fry-seafood-meat-seafood-5ad0915237e8d4.260411781523618130229.jpg"
+        },
+        {
+          "name": "Garlic",
+          "imageUrl": "https://img.pngio.com/garlic-garlic-png-garlic-hd-png-garlic-png-1517_1318.jpg"
+        }
+      ]
+    },
+    {
+      "disease": "Jaundice",
+      "avoid": [
+        {
+          "name": "Alcohol",
+          "imageUrl": "https://banner2.kisspng.com/20180607/qxg/kisspng-american-whiskey-scotch-whisky-distilled-beverage-red-label-5b18af883250b9.9287534715283444562061.jpg"
+        },
+        {
+          "name": "Sugary food",
+          "imageUrl": "https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/foodnavigator.com/article/2017/12/06/why-su"
+        },
+        {
+          "name": "Soda",
+          "imageUrl": "https://www.fodors.com/wp-content/uploads/2019/03/HERO_Worlds_Best_Soda_Bundaberg_shutterstock_679079920.jpg"
+        },
+        {
+          "name": "Sugary drinks",
+          "imageUrl": "https://www.fodors.com/wp-content/uploads/2019/03/HERO_Worlds_Best_Soda_Bundaberg_shutterstock_679079920.jpg"
+        },
+        {
+          "name": "Processed food",
+          "imageUrl": "https://amp.insider.com/images/57e41fd1a1e305b0198b4bae-750-563.jpg"
+        },
+        {
+          "name": "Fatty food",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJXOmZLq5B6yAtuew1YwX7w95HzqZD9BgNp2-mrwkf_JO-ryIX"
+        },
+        {
+          "name": "Banana",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXyxXwQJUIxNxOIa8OOB8LFB7d60ZgrTEPOTIdrRUFzjRVOwE7"
+        },
+        {
+          "name": "White bread",
+          "imageUrl": "https://library.kissclipart.com/20180829/qzw/kissclipart-bread-png-clipart-white-bread-toast-220f1fe676204675.png"
+        },
+        {
+          "name": "Red meat",
+          "imageUrl": "https://runningmagazine.ca/wp-content/uploads/2014/02/139736560.jpg"
+        }
+      ],
+      "eat": [
+        {
+          "name": "Pineapple",
+          "imageUrl": "https://www.planetorganic.com/images/products/large/1874.jpg"
+        },
+        {
+          "name": "Grapes",
+          "imageUrl": "https://img.etimg.com/thumb/height-480,width-640,msid-68194821,imgsize-89908/gettyimages-937415814.jpg"
+        },
+        {
+          "name": "Nuts",
+          "imageUrl": "https://www.organicfacts.net/wp-content/uploads/nuts.jpg"
+        },
+        {
+          "name": "Whole grain",
+          "imageUrl": "https://b.kisscc0.com/20180727/qve/kisscc0-atta-flour-roti-whole-wheat-flour-wheat-5b5aef031fc112.8282516815326860831301.jpg"
+        },
+        {
+          "name": "Avocado",
+          "imageUrl": "https://banner2.kisspng.com/20180328/cqq/kisspng-fruit-vegetable-apple-eating-avocado-5abb7be4969365.2220108415222363886168.jpg"
+        },
+        {
+          "name": "Honey",
+          "imageUrl": "https://freepngimg.com/thumb/honey/37317-3-honey-transparent-image.png"
+        },
+        {
+          "name": "Mango",
+          "imageUrl": "https://cdn3.volusion.com/kceqm.mleru/v/vspfiles/photos/47-2.jpg?1521734349"
+        },
+        {
+          "name": "Oat",
+          "imageUrl": "https://images-prod.healthline.com/hlcmsresource/images/AN_images/AN491-Oats-732x549-thumb.jpg"
+        },
+        {
+          "name": "Almonds",
+          "imageUrl": "https://www.pngfind.com/pngs/m/128-1286487_almonds-png-almond-transparent-png.png"
+        },
+        {
+          "name": "Papaya",
+          "imageUrl": "https://cdn0.woolworths.media/content/wowproductimages/large/172659.jpg"
+        },
+        {
+          "name": "Berries",
+          "imageUrl": "https://toppng.com/public/uploads/preview/berries-115260664423xylfemefj.png"
+        },
+        {
+          "name": "A lot of Water",
+          "imageUrl": "https://banner2.kisspng.com/20180408/utq/kisspng-hazardville-water-co-jewett-city-liquid-water-serv-water-glass-5ac99f13c8fb49.2882641815231628998232."
+        }
+      ]
+    },
+    {
+      "disease": "Pneumonia",
+      "avoid": [
+        {
+          "name": "Soft drinks",
+          "imageUrl": "https://www.fodors.com/wp-content/uploads/2019/03/HERO_Worlds_Best_Soda_Bundaberg_shutterstock_679079920.jpg"
+        },
+        {
+          "name": "Fried Food",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYGkiYiVm2xeZDF6WsAbKJYw8xh-NfbTFbN6tIEIgvK0M_BFnu"
+        },
+        {
+          "name": "Alcohol",
+          "imageUrl": "https://banner2.kisspng.com/20180607/qxg/kisspng-american-whiskey-scotch-whisky-distilled-beverage-red-label-5b18af883250b9.9287534715283444562061.jpg"
+        },
+        {
+          "name": "Excessive sugar",
+          "imageUrl": "https://b.kisscc0.com/20180717/aaw/kisscc0-sugar-cubes-food-sucrose-brown-sugar-sugar-cube-5b4e9b38e16dd5.0467087815318782009234.jpg"
+        },
+        {
+          "name": "Coffee",
+          "imageUrl": "https://banner2.kisspng.com/20171217/8aa/cup-coffee-png-5a37379a797281.1466299915135681544975.jpg"
+        },
+        {
+          "name": "Dairy product",
+          "imageUrl": "https://pngimage.net/wp-content/uploads/2018/05/dairy-products-png-5.png"
+        },
+        {
+          "name": "Milk",
+          "imageUrl": "https://dairyfarmersofcanada.ca/sites/default/files/styles/full_width_large/public/getty-854296650.jpg?itok=oVdN6l2l"
+        }
+      ],
+      "eat": [
+        {
+          "name": "Tomato",
+          "imageUrl": "https://thumbnail.imgbin.com/8/18/13/imgbin-tomato-RuHFJeUAtg4KyE1tpM7sv4hrE_t.jpg"
+        },
+        {
+          "name": "Lentils",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/3_types_of_lentil.png"
+        },
+        {
+          "name": "Ginger",
+          "imageUrl": "https://www.planetorganic.com/images/products/large/10081.jpg"
+        },
+        {
+          "name": "Berries",
+          "imageUrl": "https://toppng.com/public/uploads/preview/berries-115260664423xylfemefj.png"
+        },
+        {
+          "name": "Barley",
+          "imageUrl": "https://banner2.kisspng.com/20180206/txe/kisspng-barley-malt-syrup-barley-malt-syrup-wheat-barley-m-barley-5a7a31c6e5eef1.0606036315179575749418.jpg"
+        },
+        {
+          "name": "Celery",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC2aAIM1zTU0IkPnVv8uj1qpaI459azjaoRPLv2oOHdZL5g6Ky"
+        },
+        {
+          "name": "Cabbage",
+          "imageUrl": "https://toppng.com/public/uploads/preview/cabbage-11528333419zqt18200qr.png"
+        },
+        {
+          "name": "Cucumber",
+          "imageUrl": "https://www.pinclipart.com/picdir/middle/80-802534_cucumber-slice-png-cucumber-png-clipart.png"
+        },
+        {
+          "name": "Radish",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0011/2341/8172/products/RD694_Miyashige-White-Neck-Daikon-Radish-Seeds_480x480.jpg?v=1523418885"
+        },
+        {
+          "name": "Brown rice",
+          "imageUrl": "https://thumbnail.imgbin.com/24/5/7/imgbin-brown-rice-whole-grain-cereal-white-rice-rice-brown-rice-illustration-PHqdE2pGyYuJuhxJhpZWqNDTp_t.jpg"
+        },
+        {
+          "name": "Broccoli",
+          "imageUrl": "https://thumbnail.imgbin.com/4/16/12/imgbin-broccoli-cauliflower-vegetable-broccoli-TEeQf1yuqrbA9A1nTqE9kHgRt_t.jpg"
+        },
+        {
+          "name": "Onion",
+          "imageUrl": "https://ripeme.com/wp-content/uploads/RV-10050-RIPE-ORGANIC-ORGANIC-ONION-RED.jpg"
+        },
+        {
+          "name": "Salmon",
+          "imageUrl": "https://www.ocado.com/productImages/652/65233011_2_640x640.jpg?identifier=4f367b0514dbd70f4f8084c9f99d5db5"
+        },
+        {
+          "name": "Garlic",
+          "imageUrl": "https://img.pngio.com/garlic-garlic-png-garlic-hd-png-garlic-png-1517_1318.jpg"
+        },
+        {
+          "name": "Beans",
+          "imageUrl": "https://images.media-allrecipes.com/userphotos/960x960/4578474.jpg"
+        },
+        {
+          "name": "Cauliflower",
+          "imageUrl": "https://cdn.imgbin.com/13/15/19/imgbin-cauliflower-food-mashed-potato-broccoli-calorie-cauliflower-b0E00jYe5bGmxKNLqcTJnC9Kx.jpg"
+        }
+      ]
+    },
+    {
+      "disease": "Sinusitis",
+      "avoid": [
+        {
+          "name": "Fatty food",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJXOmZLq5B6yAtuew1YwX7w95HzqZD9BgNp2-mrwkf_JO-ryIX"
+        },
+        {
+          "name": "Cold drinks",
+          "imageUrl": "https://www.pngfind.com/pngs/m/14-141042_cold-drinks-hostel-x-cold-drink-image-png.png"
+        },
+        {
+          "name": "Coffee",
+          "imageUrl": "https://banner2.kisspng.com/20171217/8aa/cup-coffee-png-5a37379a797281.1466299915135681544975.jpg"
+        },
+        {
+          "name": "Spicy food",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqUgVDNUkw18QYggwgoAzdlQN7bbIoG26Ex4-lCKMNTB8Lxgb_"
+        },
+        {
+          "name": "Alcohol",
+          "imageUrl": "https://banner2.kisspng.com/20180607/qxg/kisspng-american-whiskey-scotch-whisky-distilled-beverage-red-label-5b18af883250b9.9287534715283444562061.jpg"
+        },
+        {
+          "name": "Sugary food",
+          "imageUrl": "https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/foodnavigator.com/article/2017/12/06/why-su"
+        },
+        {
+          "name": "Processed food",
+          "imageUrl": "https://amp.insider.com/images/57e41fd1a1e305b0198b4bae-750-563.jpg"
+        }
+      ],
+      "eat": [
+        {
+          "name": "Broccoli",
+          "imageUrl": "https://thumbnail.imgbin.com/4/16/12/imgbin-broccoli-cauliflower-vegetable-broccoli-TEeQf1yuqrbA9A1nTqE9kHgRt_t.jpg"
+        },
+        {
+          "name": "Onion",
+          "imageUrl": "https://ripeme.com/wp-content/uploads/RV-10050-RIPE-ORGANIC-ORGANIC-ONION-RED.jpg"
+        },
+        {
+          "name": "Garlic",
+          "imageUrl": "https://img.pngio.com/garlic-garlic-png-garlic-hd-png-garlic-png-1517_1318.jpg"
+        },
+        {
+          "name": "Blueberries",
+          "imageUrl": "https://cdn.imgbin.com/25/4/4/imgbin-blueberries-nfG6dfgZv9dEUkgEXsyq0WvgV.jpg"
+        },
+        {
+          "name": "Carrot",
+          "imageUrl": "https://banner2.kisspng.com/20180403/oyq/kisspng-carrot-juice-carrot-juice-vegetable-auglis-carrots-5ac40a4f12dbf8.5877983815227971350773.jpg"
+        },
+        {
+          "name": "Green tea",
+          "imageUrl": "https://www.organicfacts.net/wp-content/uploads/greentea-2.jpg"
+        },
+        {
+          "name": "Cranberries",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkdCZ-vQzH5fNM2mnj-YJbvzY61mvH0hUCU7kPqmdDR9EmvqBf"
+        },
+        {
+          "name": "Chicken soup",
+          "imageUrl": "https://spng.pngfly.com/20180525/pbb/kisspng-cock-a-leekie-soup-leek-soup-chicken-soup-egg-drop-5b088ce1d1fdc4.4071312015272870098601.jpg"
+        },
+        {
+          "name": "Ginger",
+          "imageUrl": "https://www.planetorganic.com/images/products/large/10081.jpg"
+        },
+        {
+          "name": "Orange",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Orange-Fruit-Pieces.jpg"
+        },
+        {
+          "name": "Mushroom",
+          "imageUrl": "https://4.imimg.com/data4/HF/YC/IMOB-25230115/mushroom_625x350_81462256291-500x500.jpg"
+        },
+        {
+          "name": "Honey",
+          "imageUrl": "https://freepngimg.com/thumb/honey/37317-3-honey-transparent-image.png"
+        }
+      ]
+    },
+    {
+      "disease": "Tuberculosis",
+      "avoid": [
+        {
+          "name": "Coffee",
+          "imageUrl": "https://banner2.kisspng.com/20171217/8aa/cup-coffee-png-5a37379a797281.1466299915135681544975.jpg"
+        },
+        {
+          "name": "Red meat",
+          "imageUrl": "https://runningmagazine.ca/wp-content/uploads/2014/02/139736560.jpg"
+        },
+        {
+          "name": "Excess spices",
+          "imageUrl": "https://banner2.kisspng.com/20180320/wqq/kisspng-masala-chai-indian-cuisine-spice-png-best-spices-clipart-5ab1c92c9b2b75.5453154515216008126356.jpg"
+        },
+        {
+          "name": "Alcohol",
+          "imageUrl": "https://banner2.kisspng.com/20180607/qxg/kisspng-american-whiskey-scotch-whisky-distilled-beverage-red-label-5b18af883250b9.9287534715283444562061.jpg"
+        },
+        {
+          "name": "Tobacco products",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3WviZgCV_1r3OOMCX4cr7feez0NrUJhL4amhPj0FNNP51sS1f"
+        },
+        {
+          "name": "French fries",
+          "imageUrl": "https://banner2.kisspng.com/20180130/udw/kisspng-hamburger-french-fries-fast-food-onion-ring-fried-hd-fries-5a71244159a512.0405123715173642893672.jpg"
+        },
+        {
+          "name": "Sweetened tea",
+          "imageUrl": "https://c7.uihere.com/files/430/678/397/java-coffee-tea-cafe-coffee-cup-coffe-cup-thumb.jpg"
+        },
+        {
+          "name": "Cookies",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0DwbwHLxud0vHPDzaGKEaw9XaaoHomR_r9aLioonBGz4QYodT"
+        },
+        {
+          "name": "Carbonated drinks",
+          "imageUrl": "https://banner2.kisspng.com/20180607/wae/kisspng-coca-cola-fizzy-drinks-pepsi-diet-coke-splash-soda-5b19e394f279e1.9718031315284233169932.jpg"
+        },
+        {
+          "name": "Jam",
+          "imageUrl": "https://assets.kraftfoods.com/recipe_images/opendeploy/179127_640x428.jpg"
+        },
+        {
+          "name": "Cake",
+          "imageUrl": "https://cdn.imgbin.com/20/17/1/imgbin-red-ribbon-black-forest-gateau-birthday-cake-makati-wedding-cake-wedding-cake-tXyjvyVY3zSPdzSJAaA3HVi8p.jpg"
+        }
+      ],
+      "eat": [
+        {
+          "name": "Guava",
+          "imageUrl": "https://rukminim1.flixcart.com/image/832/832/plant-seed/a/n/w/national-gardens-10-giant-thailand-guava-fruit-original-imaej9hxrudux8sp.jpeg?q=70"
+        },
+        {
+          "name": "Mango",
+          "imageUrl": "https://cdn3.volusion.com/kceqm.mleru/v/vspfiles/photos/47-2.jpg?1521734349"
+        },
+        {
+          "name": "Papaya",
+          "imageUrl": "https://cdn0.woolworths.media/content/wowproductimages/large/172659.jpg"
+        },
+        {
+          "name": "Indian gooseberry",
+          "imageUrl": "https://5.imimg.com/data5/XD/KI/MY-53531113/indian-gooseberry-500x500.jpg"
+        },
+        {
+          "name": "Milk",
+          "imageUrl": "https://dairyfarmersofcanada.ca/sites/default/files/styles/full_width_large/public/getty-854296650.jpg?itok=oVdN6l2l"
+        },
+        {
+          "name": "Carrot",
+          "imageUrl": "https://banner2.kisspng.com/20180403/oyq/kisspng-carrot-juice-carrot-juice-vegetable-auglis-carrots-5ac40a4f12dbf8.5877983815227971350773.jpg"
+        },
+        {
+          "name": "Tomato",
+          "imageUrl": "https://thumbnail.imgbin.com/8/18/13/imgbin-tomato-RuHFJeUAtg4KyE1tpM7sv4hrE_t.jpg"
+        },
+        {
+          "name": "Whole grain",
+          "imageUrl": "https://b.kisscc0.com/20180727/qve/kisscc0-atta-flour-roti-whole-wheat-flour-wheat-5b5aef031fc112.8282516815326860831301.jpg"
+        },
+        {
+          "name": "Broccoli",
+          "imageUrl": "https://thumbnail.imgbin.com/4/16/12/imgbin-broccoli-cauliflower-vegetable-broccoli-TEeQf1yuqrbA9A1nTqE9kHgRt_t.jpg"
+        },
+        {
+          "name": "Sweet potato",
+          "imageUrl": "https://d2lhw32459hxui.cloudfront.net/files/uploads/drupal/uploads/2012/10/nksweetpotato.jpg"
+        },
+        {
+          "name": "Soya bean",
+          "imageUrl": "https://c7.uihere.com/files/46/299/720/5bc456378c93b-thumb.jpg"
+        }
+      ]
+    }
+  ]
+}
